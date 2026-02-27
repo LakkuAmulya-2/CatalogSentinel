@@ -258,15 +258,15 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-**Project Maintainer:** [Your Name]  
-**Email:** [Your Email]  
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**Project Maintainer:** Amulya Lakku
+**Email:** lakkuamulyareddy2@gmail.com 
+**GitHub:** [@LakkuAmulya-2](https://github.com/LakkuAmulya-2)
 
 ---
 
 ## 🏆 Acknowledgments
 
-- Built for [Elastic Agent Builder Challenge 2025](https://www.elastic.co/agent-builder-challenge)
+- Built for [Elastic Agent Builder Challenge 2026](https://www.elastic.co/agent-builder-challenge)
 - Powered by [Elastic Stack](https://www.elastic.co/)
 - Inspired by real-world production ML challenges
 
